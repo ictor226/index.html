@@ -2,16 +2,29 @@
 h1 {
  
 text-align: center;
-color: aliceblue;
+color: rgb(204, 224, 241);
 
 }
 
 body {
 background-color: rgb(31, 13, 49);
 color: aliceblue;
+font-family: 'Courier New', Courier, monospace;
 
 }
 h5{
     text-align: center;
 }
-
+.galeria{
+    height: 200px;
+    width: 300px;
+    /* object-position: top; serve para centralizar no topo da img*/
+    /* object-fit: ; serve para um corte  */
+}
+.capa{
+    width: 100%;
+    
+    /*  */
+}
+    
+    
