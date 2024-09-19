@@ -1,0 +1,25 @@
+body{
+    
+    background-color: #25789e;
+}
+table{
+    border: 3px solid rgb(red, green, blue);
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    width: 50%;
+
+}
+thead {
+    background-color: rgb(43, 119, 155);
+}
+th,td{
+    border: 1px solid;
+    padding: 8px 10px;
+}
+tbody{
+    background-color: rgb(229, 247, 247);
+}
+tfoot{
+    background-color: aqua;
+    text-align: center;
+}
