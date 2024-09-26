@@ -1,0 +1,37 @@
+img{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.O_I{
+    width: 100px;
+    height:100px;
+
+}
+
+
+body{
+    display: grid;
+    place-items: center;
+    margin: 0;
+    height: 100vh;
+
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+
+table, th, td {
+     
+    background-color: rgb(131, 182, 219);
+    text-align: center;
+}
+th, td {
+    text-align: center; 
+    padding: 10px; 
+}
+th {
+    background-color: #618bbb; 
+}
